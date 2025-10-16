@@ -7,7 +7,7 @@ and access storage.
 place moshellaarch64.zip under termux home
 which may be /data/data/com.termux/files/home
 
-type " unzip moshellaarch64.zip "
+type "unzip moshell_aarch64_by_Zwe.zip "
 type " chmod +x moshell.sh"
 type " bash moshell.sh " 
 Automatically download and install required files for Moshell 
