@@ -4,7 +4,7 @@ Termux + proot-distro + Debian
 Usage
 open termux and type "termux-setup-storage"
 and access storage.
-place moshellaarch64.zip under termux home
+place moshell_aarch64_by_Zwe.zip under termux home
 which may be /data/data/com.termux/files/home
 
 type "unzip moshell_aarch64_by_Zwe.zip "
