@@ -1,5 +1,4 @@
-Moshell for Android via
-Termux + proot-distro + Debian 
+Testrmux + proot-distro + Debian 
 
 Usage
 open termux and type "termux-setup-storage"
@@ -22,4 +21,4 @@ bash moshell.sh
 
 It will Automatically download and install required files for Moshell 
 
-Good luck! ( Test for EDU only )
+Good luck! ( Tested for EDU purpose only )
